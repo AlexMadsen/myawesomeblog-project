@@ -5,3 +5,4 @@ class Event(models.Model):
 	event_image = models.ImageField(upload_to='event_images/')
 	
 	
+	
